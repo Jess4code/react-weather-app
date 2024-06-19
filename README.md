@@ -8,7 +8,7 @@ This project was created as part of the [freeCodeCamp](https://www.freecodecamp.
 
 ## Notes:
 
-I noticed that openweather API is facing some troubles in the min and max temperatures , also the clouds info when showing the weather
+I noticed that openweather API is facing some troubles with min and max temperatures , also the clouds info when showing the weather
 I've made those points clear in my comments in the code , enjoy it.
 Keep On Hacking!
 
