@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
    ```sh
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/Jess4code/react-weather-app
    ```
 
 2. Install dependencies:
